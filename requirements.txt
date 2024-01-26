@@ -4,3 +4,4 @@ openai==1.10.0
 python-dotenv==1.0.1
 streamlit==1.26.0
 pypdf==3.17.2
+chromadb==0.4.15
