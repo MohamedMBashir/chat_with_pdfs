@@ -5,6 +5,7 @@ from langchain_logic import Rag_chain
 import openai
 from dotenv import load_dotenv, find_dotenv
 
+
 # from dotenv import load_dotenv, find_dotenv
 try:
     _ = load_dotenv(find_dotenv()) # read local .env file
