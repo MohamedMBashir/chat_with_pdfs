@@ -2,6 +2,8 @@
 
 ## Live Demo
 You can try the app here [DEMO](https://chatpdfchat.streamlit.app/)
+
+
 ## Introduction
 Chat with Your PDFs is an application that allows users to interact with their PDF documents in a conversational manner. Using the power of OpenAI's language models, this tool processes PDF documents and enables users to ask questions and get responses based on the content of the PDFs.
 
